@@ -5,7 +5,7 @@
   <founding-date></founding-date>
   <website>https://killerbyteworkshop.com</website>
   <press-contact>
-    <!-- Mail address -->
+    aj@killerbyteworkshop.com
   </press-contact>
 
   <!-- Google analytics ID: -->
@@ -26,9 +26,9 @@
 
   <socials>
     <social>
-      <name></name>
+      <name>Twitter</name>
       <link>
-        <!-- URL starting with http or https -->
+        https://twitter.com/KillerbyteWShop
       </link>
     </social>
   </socials>
@@ -80,29 +80,34 @@
 
   <additionals>
     <additional>
-      <title></title>
-      <description></description>
-      <link></link>
+      <title>AJ Abotomey on Twitter</title>
+      <description>AJ's personal Twitter account can be found here: </description>
+      <link>https://twitter.com/ajabotomey</link>
     </additional>
   </additionals>
 
   <credits>
     <credit>
-      <person></person>
-      <role></role>
+      <person>AJ Abotomey</person>
+      <role>Lead Developer</role>
 
       <!-- Optional: -->
-      <website></website>
+      <website>https://ajabotomey.github.io</website>
     </credit>
   </credits>
 
   <contacts>
     <contact>
-      <name></name>
-
-      <!-- Pick one: -->
-      <mail></mail>
-      <link></link>
+      <name>Mail</name>
+      <mail>aj@killerbyteworkshop.com</mail>
+    </contact>
+    <contact>
+      <name>Twitter</name>
+      <mail>https://twitter.com/KillerbyteWShop</mail>
+    </contact>
+    <contact>
+      <name>Web</name>
+      <mail>https://killerbyteworkshop.com</mail>
     </contact>
   </contacts>
 </company>
