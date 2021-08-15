@@ -11,6 +11,6 @@ I know it's been a while and the radio silence was due to a few factors and all 
 
 But enough about that. Time to talk about the game. The game is slowly coming along with more design work being done. Some implementation of systems is underway. I have a Notion workspace that has many To Do Lists relating to each level of the game. I just finished playing Trigger Witch last night which is great because I learnt a few lessons from playing that game. 
 
-![OmniFace War To Do List](../assets/images/OmniFaceWarToDoList.png)
+![OmniFace War To Do List](../assets\images\OmniFaceToDoList.png)
 
 I have actually been prototyping the story in the meantime using Twine. There's some improvements that need to be made once a bit more of the story is complete. 
