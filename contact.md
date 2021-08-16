@@ -3,7 +3,7 @@ title: Contact Killerbyte Workshop
 permalink: /contact
 ---
 
-<form method="POST" action="https://api.slapform.com/-1RNHmFou">
+<form method="POST" action="https://api.slapform.com/aj@killerbyteworkshop.com/?slap_form_id=-1RNHmFou">
   <div class="container">
     <div class="row">
       <div class="col">
