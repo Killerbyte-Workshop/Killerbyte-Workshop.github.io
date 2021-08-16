@@ -2,7 +2,6 @@
 title: Contact Killerbyte Workshop
 permalink: /contact
 ---
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/slapform@latest/slapform.min.css">
 
 <form method="POST" action="https://api.slapform.com/-1RNHmFou">
   <div class="container">
