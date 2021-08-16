@@ -1,0 +1,171 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.row {
+	display: flex;
+	flex-wrap: wrap;
+	margin-right: -15px;
+	margin-left: -15px
+}
+
+.col {
+	flex-basis: 0px;
+	flex-grow: 1;
+	max-width: 100%
+}
+
+.form-control {
+	display: block;
+	width: 100%;
+	height: calc((1.5em + .75rem) + 2px);
+	padding: .375rem .75rem;
+	font-size: 1rem;
+	font-weight: 400;
+	line-height: 1.5;
+	color: #495057;
+	background-color: #fff;
+	background-clip: padding-box;
+	border: 1px solid #ced4da;
+	border-radius: .25rem;
+	transition: border-color .15s ease-in-out 0s,box-shadow .15s ease-in-out 0s
+}
+
+.form-control:focus {
+	color: #495057;
+	background-color: #fff;
+	border-color: #80bdff;
+	outline: 0;
+	box-shadow: rgba(0,123,255,.25) 0 0 0 .2rem
+}
+
+.form-control::-webkit-input-placeholder {
+	color: #6c757d;
+	opacity: 1
+}
+
+.form-control::placeholder {
+	color: #6c757d;
+	opacity: 1
+}
+
+.form-control:disabled,.form-control[readonly] {
+	background-color: #e9ecef;
+	opacity: 1
+}
+
+.form-control-file,.form-control-range {
+	display: block;
+	width: 100%
+}
+
+textarea.form-control {
+	height: auto
+}
+
+.form-group {
+	margin-bottom: 1rem
+}
+
+.form-row>.col,.form-row>[class*=col-] {
+	padding-right: 5px;
+	padding-left: 5px
+}
+
+.form-check {
+	position: relative;
+	display: block;
+	padding-left: 1.25rem
+}
+
+.form-check-input {
+	position: absolute;
+	margin-top: .3rem;
+	margin-left: -1.25rem
+}
+
+.form-check-input:disabled~.form-check-label {
+	color: #6c757d
+}
+
+.form-check-inline .form-check-input {
+	position: static;
+	margin-top: 0;
+	margin-right: .3125rem;
+	margin-left: 0
+}
+
+.form-control.is-valid,.was-validated .form-control:valid {
+	border-color: #28a745;
+	padding-right: calc(1.5em + .75rem);
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 8 8'%3e%3cpath fill='%2328a745' d='M2.3 6.73L.6 4.53c-.4-1.04.46-1.4 1.1-.8l1.1 1.4 3.4-3.8c.6-.63 1.6-.27 1.2.7l-4 4.6c-.43.5-.8.4-1.1.1z'/%3e%3c/svg%3e");
+	background-repeat: no-repeat;
+	background-position: right calc(.375em + .1875rem) center;
+	background-size: calc(.75em + .375rem) calc(.75em + .375rem)
+}
+
+.form-control.is-valid:focus,.was-validated .form-control:valid:focus {
+	border-color: #28a745;
+	box-shadow: rgba(40,167,69,.25) 0 0 0 .2rem
+}
+
+.form-control.is-valid~.valid-feedback,.form-control.is-valid~.valid-tooltip,.was-validated .form-control:valid~.valid-feedback,.was-validated .form-control:valid~.valid-tooltip {
+	display: block
+}
+
+.was-validated textarea.form-control:valid,textarea.form-control.is-valid {
+	padding-right: calc(1.5em + .75rem);
+	background-position: right calc(.375em + .1875rem) top calc(.375em + .1875rem)
+}
+
+.form-control-file.is-valid~.valid-feedback,.form-control-file.is-valid~.valid-tooltip,.was-validated .form-control-file:valid~.valid-feedback,.was-validated .form-control-file:valid~.valid-tooltip {
+	display: block
+}
+
+.form-check-input.is-valid~.form-check-label,.was-validated .form-check-input:valid~.form-check-label {
+	color: #28a745
+}
+
+.form-check-input.is-valid~.valid-feedback,.form-check-input.is-valid~.valid-tooltip,.was-validated .form-check-input:valid~.valid-feedback,.was-validated .form-check-input:valid~.valid-tooltip {
+	display: block
+}
+
+.form-control.is-invalid,.was-validated .form-control:invalid {
+	border-color: #dc3545;
+	padding-right: calc(1.5em + .75rem);
+	background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' fill='%23dc3545' viewBox='-2 -2 7 7'%3e%3cpath stroke='%23dc3545' d='M0 0l3 3m0-3L0 3'/%3e%3ccircle r='.5'/%3e%3ccircle cx='3' r='.5'/%3e%3ccircle cy='3' r='.5'/%3e%3ccircle cx='3' cy='3' r='.5'/%3e%3c/svg%3E");
+	background-repeat: no-repeat;
+	background-position: right calc(.375em + .1875rem) center;
+	background-size: calc(.75em + .375rem) calc(.75em + .375rem)
+}
+
+.form-control.is-invalid:focus,.was-validated .form-control:invalid:focus {
+	border-color: #dc3545;
+	box-shadow: rgba(220,53,69,.25) 0 0 0 .2rem
+}
+
+.form-control.is-invalid~.invalid-feedback,.form-control.is-invalid~.invalid-tooltip,.was-validated .form-control:invalid~.invalid-feedback,.was-validated .form-control:invalid~.invalid-tooltip {
+	display: block
+}
+
+.was-validated textarea.form-control:invalid,textarea.form-control.is-invalid {
+	padding-right: calc(1.5em + .75rem);
+	background-position: right calc(.375em + .1875rem) top calc(.375em + .1875rem)
+}
+
+.form-control-file.is-invalid~.invalid-feedback,.form-control-file.is-invalid~.invalid-tooltip,.was-validated .form-control-file:invalid~.invalid-feedback,.was-validated .form-control-file:invalid~.invalid-tooltip {
+	display: block
+}
+
+.form-check-input.is-invalid~.form-check-label,.was-validated .form-check-input:invalid~.form-check-label {
+	color: #dc3545
+}
+
+.form-check-input.is-invalid~.invalid-feedback,.form-check-input.is-invalid~.invalid-tooltip,.was-validated .form-check-input:invalid~.invalid-feedback,.was-validated .form-check-input:invalid~.invalid-tooltip {
+	display: block
+}
+
+.form-inline .form-check {
+	width: 100%
+}
