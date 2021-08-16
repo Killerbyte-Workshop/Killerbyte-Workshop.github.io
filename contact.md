@@ -25,7 +25,7 @@ permalink: /contact
         </div>
         <div class="form-group">
           <label>Message</label>
-          <input name="message" type="textarea" class="form-control" placeholder="My message...">
+          <input name="message" type="textarea" class="form-control" rows="5" placeholder="My message...">
         </div>
         <input type="text" name="slap_honey" hidden>
         <button type="submit">Submit</button>
