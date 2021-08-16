@@ -10,7 +10,7 @@ permalink: /contact
       <div class="col">
         <div class="form-group">
           <h1 class="mt-5">Contact Killerbyte Workshop</h1>
-          <p class="lead">You can contact me at <a href="mailto:aj@killerbyteworkshop.com">aj@killerbyteworkshop.com</a> or you can fill out the contact form below.</p>
+          <p>You can contact me at <a href="mailto:aj@killerbyteworkshop.com">aj@killerbyteworkshop.com</a> or you can fill out the contact form below.</p>
         </div>
         <div class="form-group">
           <label>Name</label>
