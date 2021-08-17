@@ -181,7 +181,7 @@ textarea.form-control {
 #fs-frm #card-element:disabled {
   font-family: inherit;
   font-size: 100%;
-  color: black;
+  color: inherit;
   border: none;
   border-radius: 0;
   display: block;
@@ -190,6 +190,10 @@ textarea.form-control {
   margin: 0;
   -webkit-appearance: none;
   -moz-appearance: none;
+}
+#fs-frm input,
+#fs-frm textarea {
+    color: black
 }
 #fs-frm label,
 #fs-frm legend,
