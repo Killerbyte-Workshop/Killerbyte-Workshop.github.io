@@ -11,7 +11,6 @@
   <!-- Google analytics ID: -->
   <analytics></analytics>
 
-  <phone></phone>
   <address>
     <line>
       <!-- Street -->
@@ -33,20 +32,20 @@
     </social>
   </socials>
 
-  <description></description>
+  <description>Killerbyte Workshop is a one-man indie studio that was founded in 2019 from Central Queensland, Australia. Its sole member, AJ 'Killerbyte' Abotomey, has been working in games from both education and small startups for 7 years. Even longer learning the skills needed through education at Griffith University and the Academy of Interactive Entertainment.
+Since he started making games using Game Maker in Year 10, Killerbyte has has a insatiable desire to pursue a career in video games. </description>
 
   <!-- Choose between a single block: -->
-  <history></history>
+  <!--<history></history>-->
 
   <!-- Or multiple blocks: -->
-  <!--
   <histories>
     <history>
-      <header></header>
-      <text></text>
+      <header>The OmniFace War</header>
+      <text>The OmniFace War is about a social media network that has enslaved humanity within a idealistic, augmented reality where your every move is controlled by the AI running the social media network</text>
     </history>
   </histories>
-  -->
+  
 
   <trailers>
     <trailer>
