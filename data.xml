@@ -30,6 +30,12 @@
         https://twitter.com/KillerbyteWShop
       </link>
     </social>
+    <social>
+      <name>Facebook</name>
+      <link>
+        https://www.facebook.com/KillerbyteWorkshop
+      </link>
+    </social>
   </socials>
 
   <description>Killerbyte Workshop is a one-man indie studio that was founded in 2019 from Central Queensland, Australia. Its sole member, AJ 'Killerbyte' Abotomey, has been working in games from both education and small startups for 7 years. Even longer learning the skills needed through education at Griffith University and the Academy of Interactive Entertainment.
@@ -103,6 +109,10 @@ Since he started making games using Game Maker in Year 10, Killerbyte has has a 
     <contact>
       <name>Twitter</name>
       <mail>https://twitter.com/KillerbyteWShop</mail>
+    </contact>
+    <contact>
+      <name>Facebook</name>
+      <mail>https://www.facebook.com/killerbyteworkshop/</mail>
     </contact>
     <contact>
       <name>Web</name>
