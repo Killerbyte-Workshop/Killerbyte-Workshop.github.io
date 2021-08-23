@@ -7,9 +7,9 @@ author: Killerbyte
 
 Hello folks! 
 
-I know it's been a while and the radio silence was due to a few factors and all relate to me but the long story short, I prefer to roll my own web server and technology issues kept getting in my way especially the internet. 
+I know it's been a while and the radio silence was due to a few factors and all relate to me but the long story short, technology issues kept getting in my way especially my internet.
 
-But enough about that. Time to talk about the game. The game is slowly coming along with more design work being done. Some implementation of systems is underway. I have a Notion workspace that has many To Do Lists relating to each level of the game. I just finished playing Trigger Witch last night which is great because I learnt a few lessons from playing that game. 
+But enough about that. Time to talk about the game. The game is slowly coming along with more design work being done. Some implementation of systems is underway. I have a Notion workspace that has many To Do Lists relating to each level of the game. I'll figure out how to share those soon so I can be open with everyone. I just finished playing Trigger Witch a few days ago which is great because I learnt a few lessons from playing that game that I can apply to the game.
 
 
 ![OmniFace War To Do List]({{ site.url }}/assets/images/OmniFaceToDoList.png)
