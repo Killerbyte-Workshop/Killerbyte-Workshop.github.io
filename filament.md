@@ -22,10 +22,10 @@ In this series, we'll be testing as many different filaments as I can get my han
 We will eventually be testing for part strength and stiffness but I need to build machines first.
 
 To start with we'll be testing
-    eSUN PLA+
-    Overture ASA
-    Overture PETG 
-    eSUN ePA-CF
-    PC
-    PA (Nylon)
-    ABS
+* eSUN PLA+
+* Overture ASA
+* Overture PETG 
+* eSUN ePA-CF
+* PC
+* PA (Nylon)
+* ABS
