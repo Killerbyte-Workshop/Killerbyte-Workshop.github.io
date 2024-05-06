@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Home Assistant
-date: 2024-05-06 20:00:00 +1000
+date: 2024-05-06 19:45:00 +1000
 author: Killerbyte
 ---
 
