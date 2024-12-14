@@ -1,0 +1,16 @@
+{
+    "filament": {
+        "brand": "Bambu Lab",
+        "type": "PLA",
+        "subtype": "PLA Basic",
+        "price": "$35.99AUD with spool, $30.99AUD for refill",
+        "density": "",
+        "weight": "?? with spool, ?? as refill",
+        "tensilestrength": "",
+        "stiffness": "",
+        "heatresistance": "",
+        "cooling": "Fan on",
+        "postprocessing": " No sanding.",
+        "printingrequirements": "No real requirements."
+    }
+}

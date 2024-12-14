@@ -7,7 +7,6 @@ permalink: /filament/
 
 In this series, we'll be testing as many different filaments as I can get my hands on and we'll be testing for the following properties:
 * Price
-* Glass Transition Temperature
 * Post Processing options
     * This includes vapour smoothing, sanding, drilling, etc...
 * Density
